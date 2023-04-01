@@ -1,5 +1,7 @@
 # Twitter Tweet Wiper
 
+> ⚠️**ARCHIVED:** Due to API changes with Twitter this is __no longer working__ and if, you'd have to pay for API calls... Good Job Twitter 🥲⚠️
+
 This [Jupyter Notebook](https://jupyter.org/) uses a `tweets.js` from your Twitter archive and wipes **all** tweets.  
 To use this project simply:
 
